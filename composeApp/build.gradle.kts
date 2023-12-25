@@ -30,6 +30,7 @@ kotlin {
             implementation(compose.material)
             @OptIn(ExperimentalComposeLibrary::class)
             implementation(compose.components.resources)
+            implementation("io.coil-kt:coil-compose:2.5.0")
         }
     }
 }
