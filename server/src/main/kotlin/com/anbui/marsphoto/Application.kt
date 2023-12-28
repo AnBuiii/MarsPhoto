@@ -1,6 +1,5 @@
 package com.anbui.marsphoto
 
-import Greeting
 import SERVER_PORT
 import com.anbui.marsphoto.model.MarsPhoto
 import io.ktor.server.application.*

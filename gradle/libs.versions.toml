@@ -55,6 +55,7 @@ ktor-client-serialization = {module = "io.ktor:ktor-client-serialization", versi
 ktor-client-android = {module = "io.ktor:ktor-client-android", version.ref = "ktor"}
 ktor-client-okhttp = {module = "io.ktor:ktor-client-okhttp", version.ref = "ktor"}
 ktor-client-darwin = {module = "io.ktor:ktor-client-darwin", version.ref = "ktor"}
+androidx-lifecycle-viewmodel-ktx = { group = "androidx.lifecycle", name = "lifecycle-viewmodel-ktx", version = "2.6.2" }
 
 [plugins]
 kotlinJvm = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin" }
